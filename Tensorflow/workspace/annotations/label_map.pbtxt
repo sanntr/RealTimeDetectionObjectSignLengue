@@ -1,0 +1,16 @@
+item { 
+	name:'comida'
+	id:1
+}
+item { 
+	name:'esposo'
+	id:2
+}
+item { 
+	name:'te_amo'
+	id:3
+}
+item { 
+	name:'hola'
+	id:4
+}
