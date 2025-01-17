@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Esposo-Esposa</folder>
+	<filename>Esposo_1.jpg</filename>
+	<path>/home/pataescui/Documents/pia_2024/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/Esposo-Esposa/Esposo_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>esposo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>252</ymin>
+			<xmax>680</xmax>
+			<ymax>537</ymax>
+		</bndbox>
+	</object>
+</annotation>

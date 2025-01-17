@@ -1,0 +1,26 @@
+<annotation>
+	<folder>comer</folder>
+	<filename>comer_19.jpg</filename>
+	<path>/home/pataescui/Pictures/Webcam/comer/comer_19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>comida</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>314</ymin>
+			<xmax>718</xmax>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+</annotation>
